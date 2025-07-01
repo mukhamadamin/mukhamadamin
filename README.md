@@ -1,5 +1,5 @@
 <!-- Приветствие -->
-<h1 align="center">Привет, я Mukhamadamin 👋</h1>
+<h1 align="center">Привет, я Mukhammadamin 👋</h1>
 <p align="center">
   Flutter-разработчик из Узбекистана 🇺🇿 <br>
   Люблю создавать красивые и удобные мобильные приложения
@@ -68,7 +68,7 @@
 <!-- Красивая подпись -->
 ## ✨ Спасибо за внимание! 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26c6da,100:1976d2&height=100&section=footer&text=Будь%20в%20курсе%20новых%20проектов%20и%20разработок%20с%20Mukhamadamin&fontSize=25&fontColor=fff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26c6da,100:1976d2&height=100&section=footer&text=Будь%20в%20курсе%20новых%20проектов%20и%20разработок%20с%20Mukhammadamin&fontSize=25&fontColor=fff&animation=fadeIn"/>
 </p>
 
 <!-- Интерактивная кнопка -->
