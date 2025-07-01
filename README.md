@@ -53,9 +53,17 @@
 <!-- Контакты -->
 ## 📫 Контакты
 
-- Telegram: [@yourtelegram](https://t.me/maheyev)
-- Email: muhammadaminyahyoyev@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadamin-yahyoyev-21a802258/)
+<p align="center">
+  <a href="https://t.me/maheyev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2300A0D8?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadaminyahyoyev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadamin-yahyoyev-21a802258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <!-- Красивая подпись -->
 ## ✨ Спасибо за внимание! 
