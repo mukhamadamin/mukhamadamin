@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Приветствие -->
+<h1 align="center">Привет, я Mukhamadamin 👋</h1>
+<p align="center">
+  Flutter-разработчик из Узбекистана 🇺🇿 <br>
+  Люблю создавать красивые и удобные мобильные приложения
+</p>
 
-<!--
-**mukhamadamin/mukhamadamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Бейджи -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- О себе -->
+## 🚀 Немного обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Flutter-разработчик с опытом коммерческой разработки
+- 👨‍💻 Люблю писать чистый и поддерживаемый код
+- 🎯 Постоянно учусь и пробую новые технологии
+
+<!-- Технологии -->
+## 🛠️ Мой стек
+
+- **Flutter, Dart**
+- Firebase (Firestore, Auth, Storage, Crashlytics)
+- REST API, GraphQL
+- Git & GitHub
+- Provider, BLoC, Riverpod
+- MVC, MVVM
+- Figma, Zeplin
+
+<!-- Проекты -->
+## 📱 Мои проекты
+
+- [MyCoolApp](https://github.com/mukhamadamin/mycoolapp) — приложение для учета расходов (Flutter, Firebase)
+- [WeatherX](https://github.com/mukhamadamin/weatherx) — погодное приложение с красивым UI
+- [AwesomeFlutterUI](https://github.com/mukhamadamin/awesomeflutterui) — коллекция Flutter UI
+
+<!-- Статистика -->
+## 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukhamadamin&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadamin&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<!-- Контакты -->
+## 📫 Контакты
+
+- Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- Email: youremail@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+<!-- Красивая подпись -->
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26c6da,100:1976d2&height=100&section=footer"/>
+</p>
