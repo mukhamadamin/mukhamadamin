@@ -53,9 +53,126 @@
 <!-- Контакты -->
 ## 📫 Контакты
 
-- Telegram: [@maheyev](https://t.me/maheyev)
-- Email: muhammadaminyahyoyev@gmail.com
-- LinkedIn: [linkedin.com/in/muhammadamin](https://www.linkedin.com/in/muhammadamin-yahyoyev-21a802258/)
+- Telegram: [@yourtelegram](https://t.me/maheyev)
+- Email: muhammadaminyahyoyev@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadamin-yahyoyev-21a802258/)
+
+<!-- Карта с местоположением -->
+<h3 align="center">Мое местоположение</h3>
+<div id="map" style="height: 400px;"></div>
+<script>
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById("map"), {
+      center: { lat: 41.2995, lng: 69.2401 }, // Координаты Узбекистана
+      zoom: 8,
+    });
+    var marker = new google.maps.Marker({
+      position: { lat: 41.2995, lng: 69.2401 },
+      map: map,
+      title: "Мое местоположение!",
+    });
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
+
+<!-- Модальные окна с проектами -->
+<h3 align="center">Мои проекты</h3>
+<button onclick="showProjectDetails()">Посмотреть проекты</button>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+  function showProjectDetails() {
+    Swal.fire({
+      title: 'Мой последний проект',
+      text: 'Описание проекта...',
+      imageUrl: 'project-image-url.jpg',
+      imageWidth: 400,
+      imageHeight: 200,
+      imageAlt: 'Project Image',
+    });
+  }
+</script>
+
+<!-- Слайдер с отзывами -->
+<h3 align="center">Отзывы</h3>
+<div class="swiper-container" style="width: 80%; margin: 0 auto;">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">"Отличная работа! Очень профессионально!"</div>
+    <div class="swiper-slide">"Mukhamadamin - лучший разработчик, с которым я работал!"</div>
+    <div class="swiper-slide">"Всегда в срок, всегда качественно!"</div>
+  </div>
+  <div class="swiper-pagination"></div>
+</div>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+  var swiper = new Swiper('.swiper-container', {
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  });
+</script>
+
+<!-- Цитаты -->
+<h3 align="center">Мои любимые цитаты</h3>
+<div style="text-align: center; margin-top: 40px;">
+  <blockquote>
+    <p>"Программирование - это не просто работа. Это искусство."</p>
+    <footer>- Автор</footer>
+  </blockquote>
+  <blockquote>
+    <p>"Каждый баг — это возможность учиться."</p>
+    <footer>- Автор</footer>
+  </blockquote>
+</div>
+
+<!-- Интерактивная кнопка для социальных сетей -->
+<p align="center">
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <button style="padding: 10px 20px; border-radius: 5px; background-color: #1DA1F2; color: white;">Мой Twitter</button>
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <button style="padding: 10px 20px; border-radius: 5px; background-color: #C13584; color: white;">Мой Instagram</button>
+  </a>
+</p>
+
+<!-- Кнопка с анимацией -->
+<p align="center">
+  <button class="animated-button">Связаться со мной</button>
+</p>
+<style>
+  .animated-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0a66c2;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  .animated-button:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<!-- Анимации при прокрутке -->
+<h3 align="center">Мои проекты</h3>
+<div data-aos="fade-up">
+  <p>Описание проекта...</p>
+</div>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
+<!-- Чат-бот -->
+<h3 align="center">Задать вопрос</h3>
+<p align="center">
+  <button onclick="window.location.href='mailto:muhammadaminyahyoyev@example.com'">Написать мне</button>
+</p>
 
 <!-- Красивая подпись -->
 ## ✨ Спасибо за внимание! 
@@ -71,3 +188,19 @@
     </button>
   </a>
 </p>
+
+<script>
+  // Initialize Map
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById("map"), {
+      center: { lat: 41.2995, lng: 69.2401 },
+      zoom: 8,
+    });
+    var marker = new google.maps.Marker({
+      position: { lat: 41.2995, lng: 69.2401 },
+      map: map,
+      title: "Мое местоположение!",
+    });
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
