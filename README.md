@@ -27,15 +27,9 @@
 - REST API, GraphQL
 - Git & GitHub
 - Provider, BLoC, Riverpod
-- MVC, MVVM
+- MVC, MVVM, Clean architecture, FSD
 - Figma, Zeplin
 
-<!-- Проекты -->
-## 📱 Мои проекты
-
-- [MyCoolApp](https://github.com/mukhamadamin/mycoolapp) — приложение для учета расходов (Flutter, Firebase)
-- [WeatherX](https://github.com/mukhamadamin/weatherx) — погодное приложение с красивым UI
-- [AwesomeFlutterUI](https://github.com/mukhamadamin/awesomeflutterui) — коллекция Flutter UI
 
 <!-- Статистика -->
 ## 📊 GitHub статистика
@@ -48,9 +42,9 @@
 <!-- Контакты -->
 ## 📫 Контакты
 
-- Telegram: [@yourtelegram](https://t.me/yourtelegram)
-- Email: youremail@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Telegram: [@yourtelegram](https://t.me/maheyev)
+- Email: muhammadaminyahyoyev@example.com
+- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadamin-yahyoyev-21a802258/)
 
 <!-- Красивая подпись -->
 ---
